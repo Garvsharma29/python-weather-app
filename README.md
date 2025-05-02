@@ -1,2 +1,2 @@
 # python-weather-app
-create a weather app in python with the usko tkinter for gui purpose
+create a weather app in python with the use of tkinter for gui purpose
